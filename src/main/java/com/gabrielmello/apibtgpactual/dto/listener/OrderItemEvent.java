@@ -1,4 +1,4 @@
-package com.gabrielmello.apibtgpactual.listener.dto;
+package com.gabrielmello.apibtgpactual.dto.listener;
 
 import java.math.BigDecimal;
 
