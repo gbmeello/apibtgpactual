@@ -16,7 +16,7 @@
 </p>
 
 ## Desafio
-- Confira o enunciado completo, [clicando aqui](./PROBLEM).
+- Confira o enunciado completo, [clicando aqui](./PROBLEM.md).
 
 ## Como interagir com o banco de dados?
 - Utilizamos o [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
